@@ -14,8 +14,6 @@
   
   - [GitHub - ucoruh/cpp-cmake-ctest-template: CMake Cpp (Build,Test,Coverage,Publish) + Doxygen (HTML, Latex, RTF) + ReportGenerator + QA (Test Coverage) + Astyle Template](https://github.com/ucoruh/cpp-cmake-ctest-template)
 
-
-
 ## RTEU CE103 Algorithms and Programming-I
 
 ---
@@ -49,9 +47,9 @@
 - Character Sets
 
 - Knowledge about Basic Operating System Lists
-
+  
   - Types of Operating Systems
-
+  
   - Console commands
   
   - System folders 
@@ -249,13 +247,13 @@
   - COMP: Compare the contents of any two files to see the differences.
   
   - FIND/FINDSTR: Search for strings inside of any ASCII files.
-
+  
   - PROMPT: Change the command prompt from C:> to something else.
-
+  
   - TITLE: Change the title of the command prompt window.
-
+  
   - REGEDIT: Edit keys in the Windows registry (use with caution).
-
+  
   - ROBOCOPY: A powerful file copy utility built right into Windows.
 
 - Interview Questions 
@@ -407,7 +405,7 @@
   
   - Godbolt Assembly of C Code
   
-  -  https://github.com/Genymobile/scrcpy Mobile Device Screen Sharing for Demo
+  - https://github.com/Genymobile/scrcpy Mobile Device Screen Sharing for Demo
   
   - Travis-CI
   
@@ -438,25 +436,25 @@
   ---
   
   ### Week-3 (Introduction to Source Code Version Management)
-  
-- Introduction to Source Code Management Systems
-  
-- Features of Source Code Management
-  
-- Why Do We Need Source Code Management?
-  
-- Types of Version Control Systems
 
+- Introduction to Source Code Management Systems
+
+- Features of Source Code Management
+
+- Why Do We Need Source Code Management?
+
+- Types of Version Control Systems
+  
   - Centralized
   
   - Distributed
 
 - Installation of Git
-
+  
   - Git
-
+  
   - Git-Extension
-
+  
   - Gig (git ignore creator) and Toptal Usage
 
 - Configuration of Git
@@ -478,19 +476,19 @@
 - Git Pull/Fetch Changes from Remote Repo
 
 - Git Push Local Changes to Remote Repo
-
+  
   - Update Local Repo Before Sending (Solve Conflicts)
-
+  
   - Send Changes to Remote Repo
 
 - Git Branching
 
 - Git Update & Merging and Conflict Solving
-
+  
   - Fast-forward (-ff) Merging
-
+  
   - No-fast-forward (--no-ff) Merging
-
+  
   - Merge Conflicts
 
 - Git Tagging
@@ -498,11 +496,11 @@
 - Git Rebasing
 
 - Git Replace Local Changes/ Resetting
-
+  
   - Soft Reset
-
+  
   - Hard Reset
-
+  
   - Reverting 
 
 - Cherry-picking
@@ -534,7 +532,6 @@
 - TFS Usage
 
 - SVN Usage
-
 
 ---
 
@@ -597,101 +594,101 @@
 - Console Application Development
 
 - C Introduction 
-
+  
   - Keywords & Identifiers 
-
+  
   - Variables & Constants 
-
+  
   - C Data Types 
-
+  
   - C Input/Output 
-
+  
   - C Operators 
-
+  
   - C Introduction Examples
 
 - C Flow Control
-
+  
   - C if..else 
-
+  
   - C for loop 
-
+  
   - C while loop 
-
+  
   - C break and continue 
-
+  
   - C switch...case 
-
+  
   - C Programming goto 
-
+  
   - Control Flow Examples (homework) 
 
 - C Functions 
-
+  
   - C Programming Functions 
-
+  
   - C User-defined Functions 
-
+  
   - C Function Types 
-
+  
   - C Recursion 
-
+  
   - C Storage Class 
-
+  
   - C Function Examples
 
 - C Programming Arrays 
-
+  
   - C Programming Arrays 
-
+  
   - C Multi-dimensional Arrays 
-
+  
   - C Arrays & Functions 
-
+  
   - C Programming Pointers 
-
+  
   - C Programming Pointers 
-
+  
   - C Pointers & Arrays 
-
+  
   - C Pointers and Functions 
-
+  
   - C Memory Allocation 
-
+  
   - Array & Pointer Examples
-
+  
   - C Programming Strings 
-
+  
   - C String Functions 
-
+  
   - C String Examples 
 
 - C Structure and Union 
-
+  
   - C Structure 
-
+  
   - C Struct & Pointers 
-
+  
   - C Struct & Functions 
-
+  
   - C Unions 
-
+  
   - C Struct Examples 
 
 - C Programming Files 
-
+  
   - C Files Input/Output 
-
+  
   - C Files Examples 
 
 - Additional Topics 
-
+  
   - C Enumeration 
-
+  
   - C Preprocessors 
-
+  
   - C Standard Library 
-
+  
   - C Programming Examples 
 
 ---
@@ -699,109 +696,109 @@
 ### Week-6 (C++ Functional Console Programming)
 
 - C++ Introduction
-
+  
   - C++ Variables and Literals
-
+  
   - C++ Data Types
-
+  
   - C++ Basic I/O
-
+  
   - C++ Type Conversion
-
+    
     - C++ String to Int and Vice-Versa 
-
+    
     - C++ String to Float, Double and Vice-Versa
-
+  
   - C++ Operators
-
+  
   - C++ Comments
 
 - C++ Flow Control
-
+  
   - C++ if..else
-
+  
   - C++ for loop
-
+  
   - C++ do..while loop
-
+  
   - C++ break statement
-
+  
   - C++ continue statement
-
+  
   - C++ switch statement
-
+  
   - C++ goto statement
 
 - C++ Functions
-
+  
   - C++ Functions
-
+  
   - C++ Function Types
-
+  
   - C++ Function Overloading
-
+  
   - C++ Default Argument
-
+  
   - C++ Storage Class
-
+  
   - C++ Recursion
-
+  
   - C++ Return Reference
 
 - C++ Arrays & String
-
+  
   - C++ Arrays
-
+  
   - Multidimensional Arrays
-
+  
   - C++ Function and Array
-
+  
   - C++ String
 
 - C++ Structures
-
+  
   - C++ Structures
-
+  
   - Structure and Function
-
+  
   - C++ Pointers to Structure
-
+  
   - C++ Enumeration
 
 - C++ Object & Class
-
+  
   - C++ Objects and Class
-
+  
   - C++ Constructors
-
+  
   - C++ Objects & Function
-
+  
   - C++ Operator Overloading
 
 - C++ Pointers
-
+  
   - C++ Pointer
-
+  
   - C++ Pointers and Arrays
-
+  
   - C++ Pointers and Functions
-
+  
   - C++ Memory Management
 
 - C++ Inheritance
-
+  
   - C++ Inheritance
-
+  
   - Inheritance Access Control
-
+  
   - C++ Function Overriding
-
+  
   - Multiple & Multilevel Inheritance
-
+  
   - C++ Friend Function
-
+  
   - C++ Virtual Function
-
+  
   - C++ Templates
 
 ---
@@ -809,45 +806,45 @@
 ### Week-7 (C# Functional Console Programming)
 
 - Introduction
-
+  
   - C# Hello World
-
+  
   - C# Keywords & Identifiers
-
+  
   - C# Variables
-
+  
   - C# Operators
-
+  
   - C# Basic I/O
-
+  
   - C# Expressions & Statements
-
+  
   - C# Comments
 
 - Flow Control
-
+  
   - C# if..else
-
+  
   - C# for loop
-
+  
   - C# while loop
-
+  
   - C# foreach loop
-
+  
   - C# switch statement
-
+  
   - C# ternary operator
 
 - Exception Handling
 
 - Other Topics
-
+  
   - C# Bitwise Operators
-
+  
   - C# Preprocessor Directives
-
+  
   - C# Namespaces
-
+  
   - C# Partial Class & Method
 
 ---
@@ -855,45 +852,45 @@
 ### Week-9 (Java Functional Console Programming)
 
 - Java Introduction
-
+  
   - Java Hello World
-
+  
   - Java JVM, JRE, and JDK
-
+  
   - Java Variables
-
+  
   - Java Data Types
-
+  
   - Java Operators
-
+  
   - Java Input and Output
-
+  
   - Java Expressions & Blocks
-
+  
   - Java Comment
 
 - Java Flow Control
-
+  
   - Java if..else
-
+  
   - Java switch statement
-
+  
   - Java for loop
-
+  
   - Java for-each loop
-
+  
   - Java while loop
-
+  
   - Java break statement
-
+  
   - Java continue statement
 
 - Java Arrays
-
+  
   - Java Arrays
-
+  
   - Multidimensional Array
-
+  
   - Java Copy Array
 
 ---
@@ -901,155 +898,155 @@
 ### Week-10 (Java Functional Console Programming)
 
 - Java OOP-I
-
+  
   - Java Class and Objects
-
+  
   - Java Methods
-
+  
   - Java Constructor
-
+  
   - Java Strings
-
+  
   - Java Access Modifiers
-
+  
   - Java this keyword
-
+  
   - Java final keyword
-
+  
   - Java recursion
-
+  
   - Java instanceof operator
 
 - Java OOP-II
-
+  
   - Java Inheritance
-
+  
   - Java Method Overriding
-
+  
   - Java super keyword
-
+  
   - Abstract Class & Method
-
+  
   - Java Interfaces
-
+  
   - Java Polymorphism
-
+  
   - Java Encapsulation
 
 - Java OOP-III
-
+  
   - Nested & Inner Class
-
+  
   - Java Static Class
-
+  
   - Java Anonymous Class
-
+  
   - Java Singleton
-
+  
   - Java enum class
-
+  
   - Java enum constructor
-
+  
   - Java enum string
-
+  
   - Java reflection
 
 - Java Exception Handling
-
+  
   - Java Exceptions
-
+  
   - Java Exception Handling
-
+  
   - Java try..catch
-
+  
   - Java throw and throws
-
+  
   - Java catch Multiple Exceptions
-
+  
   - Java try-with-resources
-
+  
   - Java Annotations
-
+  
   - Java Annotation Types
-
+  
   - Java Logging
-
+  
   - Java Assertions
 
 - Java List
-
+  
   - Java Collection Framework
-
+  
   - Java Collection Interface
-
+  
   - Java List Interface
-
+  
   - Java ArrayList
-
+  
   - Java Vector
-
+  
   - Java Stack
 
 - Java Queue
-
+  
   - Java Queue Interface
-
+  
   - Java PriorityQueue Interface  
-
+  
   - Java Deque Interface
-
+  
   - Java LinkedList
-
+  
   - Java ArrayDeque 
-
+  
   - Java BlockingQueue Interface
-
+  
   - Java ArrayBlockingQueue
-
+  
   - Java LinkedBlocking Queue
 
 - Java Map
-
+  
   - Java Map Interface
-
+  
   - Java HashMap
-
+  
   - Java LinkedHashMap
-
+  
   - Java WeakHashMap
-
+  
   - Java EnumMap
-
+  
   - Java SortedMap Interface
-
+  
   - Java NavigableMap Interface
-
+  
   - Java TreeMap
-
+  
   - Java ConcurrentMap Interface
-
+  
   - Java ConcurrentHashMap
 
 - Java Set
-
+  
   - Java Set Interface
-
+  
   - Java HashSet
-
+  
   - Java EnumSet
-
+  
   - Java LinkedHashSet
-
+  
   - Java SortedSet Interface
-
+  
   - Java NavigableSet Interface
-
+  
   - Java TreeSet
-
+  
   - Java Algorithms
-
+  
   - Java Iterator
-
+  
   - Java ListIterator
 
 ---
@@ -1057,73 +1054,73 @@
 ### Week-11 (Java Functional Console Programming)
 
 - Java I/O Streams
-
+  
   - Java I/O Streams
-
+  
   - Java InputStream
-
+  
   - Java OutputStream
-
+  
   - Java FileInputStream
-
+  
   - Java FileOutputStream
-
+  
   - Java ByteArrayInputStream
-
+  
   - Java ByteArrayOutputStream
-
+  
   - Java ObjectInputStream
-
+  
   - Java ObjectOutputStream
-
+  
   - Java BufferedInputStream
-
+  
   - Java BufferedOutputStream
-
+  
   - Java PrintStream
 
 - Java Reader/Writer
-
+  
   - Java Reader
-
+  
   - Java Writer
-
+  
   - Java InputStreamReader
-
+  
   - Java OutputStreamWriter
-
+  
   - Java FileReader
-
+  
   - Java FileWriter
-
+  
   - Java BufferedReader
-
+  
   - Java BufferedWriter
-
+  
   - Java StringReader
-
+  
   - Java StringWriter
-
+  
   - Java PrintWriter
 
 - Additional Topics
-
+  
   - Java Scanner Class
-
+  
   - Java Type Casting
-
+  
   - Java autoboxing and unboxing
-
+  
   - Java Lambda Expression
-
+  
   - Java Generics
-
+  
   - Java File Class
-
+  
   - Java Wrapper Class
-
+  
   - Java Command Line Arguments
-
+  
   - JNLP (Java Network Launch Protocol)
 
 ---
@@ -1131,9 +1128,9 @@
 ### Week-12 (C/Cpp GUI Programming)
 
 - GUI Application Development (Windows)
-
+  
   - C Programming
-
+  
   - Cpp Programming
 
 ---
@@ -1141,7 +1138,7 @@
 ### Week-13  (Csharp GUI Programming)
 
 - GUI Application Development (Windows)
-
+  
   - Csharp Programming
 
 ---
@@ -1149,7 +1146,7 @@
 ### Week-14 (Csharp GUI Programming)
 
 - GUI Application Development (Windows)
-
+  
   - Csharp Programming
 
 ---
@@ -1157,9 +1154,8 @@
 ### Week-15 (Java GUI Programming)
 
 - GUI Application Development (Windows)
-
+  
   - Java Programming
-
 
 ## RTEU CE100 Algorithms and Programming-II
 
@@ -1178,25 +1174,25 @@
 - Insertion Sort Analysis 
 
 - Algorithm Cost Calculation for Time Complexity 
-
+  
   - Worst Case
-
+  
   - Average Case
-
+  
   - Best Case 
 
 - Merge Sort Analysis
 
 - Asymptotic Notation 
-
+  
   - Big O Notation 
-
+  
   - Big Teta Notation 
-
+  
   - Big Omega Notation 
-
+  
   - Small o Notation 
-
+  
   - Small omega Notation 
 
 ---
@@ -1204,23 +1200,23 @@
 ### Week-2
 
 - Solving Recurrences 
-
+  
   - Recursion Tree 
-
+  
   - Master Method 
-
+  
   - Back-Substitution 
 
 - Divide-and-Conquer Analysis 
-
+  
   - Merge Sort 
-
+  
   - Binary Search 
-
+  
   - Merge Sort Analysis 
-
+  
   - Complexity 
-
+  
   - Recurrence Solution
 
 ---
@@ -1228,17 +1224,17 @@
 ### Week-3
 
 - Matrix Multiplication 
-
+  
   - Traditional 
-
+  
   - Recursive 
-
+  
   - Strassen
 
 - Quicksort 
-
+  
   - Hoare Partitioning 
-
+  
   - Lomuto Partitioning 
 
 - Recursive Sorting 
@@ -1258,15 +1254,15 @@
 ### Week-4
 
 - Heaps 
-
+  
   - Max / Min Heap 
-
+  
   - Heap Data Structure 
 
 - Heapify 
-
+  
   - Iterative 
-
+  
   - Recursive 
 
 - Extract-Max 
@@ -1274,9 +1270,9 @@
 - Build Heap 
 
 - Heap Sort 
-
+  
   - Priority Queues 
-
+  
   - Linked Lists 
 
 - Radix Sort 
@@ -1294,10 +1290,10 @@
 - Divide-and-Conquer (DAC) vs Dynamic Programming (DP) 
 
 - Fibonacci Numbers 
-
-    - Recursive Solution 
-
-    - Bottom-Up Solution 
+  
+  - Recursive Solution 
+  
+  - Bottom-Up Solution 
 
 - Development of a DP Algorithms 
 
@@ -1306,7 +1302,7 @@
 - Matrix Multiplication and Row Columns Definitions 
 
 - Cost of Multiplication Operations (pxqxr) 
-
+  
   - Counting the Number of Parenthesizations 
 
 - A Recursive Solution 
@@ -1332,13 +1328,13 @@
 - Dynamic Programming Overlapping Subproblems 
 
 - Recursive Matrix Chain Order Memoization 
-
+  
   - Top-Down Approach 
-
+  
   - RMC 
-
+  
   - MemoizedMatrixChain 
-
+  
   - LookupC 
 
 - Dynamic Programming vs Memoization Summary 
@@ -1352,43 +1348,43 @@
 - Back-pointer space optimization for LCS length 
 
 - Most Common Dynamic Programming Interview Questions 
-
+  
   - Problem-1:  Longest Increasing Subsequence 
-
+  
   - Problem-2: Edit Distance 
-
+  
   - Problem-3: Partition a set into two subsets such that the difference of subset sums is minimu
-
+  
   - Problem-4: Count number of ways to cover a distanc
-
+  
   - Problem-5: Find the longest path in a matrix with given constraint
-
+  
   - Problem-6: Subset Sum Problem
-
+  
   - Problem-7: Optimal Strategy for a Game
-
+  
   - Problem-8: 0-1 Knapsack Problem
-
+  
   - Problem-9: Boolean Parenthesization Proble
-
+  
   - Problem-10: Shortest Common Supersequence
-
+  
   - Problem-11: Partition Problem
-
+  
   - Problem-12: Cutting a Rod
-
+  
   - Problem-13: Coin Change 
-
+  
   - Problem-14: Word Break Proble
-
+  
   - Problem-15: Maximum Product Cutting
-
+  
   - Problem-16: Dice Throw 
-
+  
   - Problem-17: Box Stacking Problem 
-
+  
   - Problem-18: Egg Dropping Puzzle 
- 
+
 ---
 
 ### Week-7
@@ -1396,14 +1392,14 @@
 - Greedy Algorithms and Dynamic Programming Differences 
 
 - Greedy Algorithms 
-
+  
   - Activity Selection Problem 
 
 - Knapsack Problems 
-
-    - The 0-1 knapsack problem 
-
-    - The fractional knapsack problem 
+  
+  - The 0-1 knapsack problem 
+  
+  - The fractional knapsack problem 
 
 ---
 
@@ -1424,11 +1420,11 @@
 - BFS (Breath-First Search) 
 
 - DFS (Depth-First Search) 
-
+  
   - in-order 
-
+  
   - post-order 
-
+  
   - pre-order 
 
 - Topological Order 
@@ -1436,9 +1432,9 @@
 - SCC (Strongly Connected Components) 
 
 - MST 
-
+  
   - Prim 
-
+  
   - Kruskal 
 
 ---
@@ -1448,19 +1444,19 @@
 - Disjoint Sets and Kruskal Relationships 
 
 - Single-Source Shortest Paths 
-
+  
   - Bellman-Ford 
-
+  
   - Dijkstra 
 
 - Q-Learning Shortest Path
 
 - Max-Flow Min-Cut 
-
+  
   - Ford-Fulkerson 
-
+  
   - Edmond’s Karp 
-
+  
   - Dinic 
 
 ---
@@ -1476,27 +1472,27 @@
 - Hash Values 
 
 - Cryptographic Hash Functions 
-
+  
   - SHA-1 
-
+  
   - SHA-256 
-
+  
   - SHA-512 
 
 - Checksums 
-
+  
   - MD5 
-
+  
   - CRC32 
 
 - Hash Algorithms 
-
+  
   - SHA-1 
-
+  
   - SHA-256 
-
+  
   - SHA-512 
-
+  
   - H-MAC
 
 ---
@@ -1504,17 +1500,17 @@
 ### Week-13
 
 - Symmetric Encryption Algorithms 
-
+  
   - AES 
-
+  
   - DES 
-
+  
   - TDES 
 
 - Symmetric Encryption Modes 
-
+  
   - ECB 
-
+  
   - CBC 
 
 - Asymmetric Encryption 
@@ -1528,9 +1524,651 @@
 ### Week-14
 
 - OTP Calculation 
-
+  
   - Time-based 
-
+  
   - Counter-based 
 
 - File Encryption and Decryption and Integrity Control Operations
+  
+  ---
+
+# CE204 - Object Oriented Programming
+
+  ---
+
+### Week - 1
+
+- Software and Software Engineering
+  
+  - Knowledge About Software
+  
+  - The Nature of Software
+
+- Some Types of Software
+  
+  - Real time embadded Software
+  
+  - Data Processing Software
+  
+  - Game Software
+  
+  - Mobile Device Software
+  
+  - Etc.
+
+- The Project Construction Cycle - The Tree Swing Example
+
+- Need for a good programming method
+
+- What is Software Engineering
+
+- Software Engineering Code of Ethics
+
+- Software Quality
+
+- Software Quality Metrics
+  
+  - User
+  
+  - SW Developer
+  
+  - OOP
+
+- Activities Common to Software Projects
+
+- Software Life Cycle
+  
+  - Requirements Phase
+  
+  - Specification Phase 
+  
+  - Design Phase 
+  
+  - Implementation Phase 
+  
+  - Integration Phase 
+  
+  - Maintenance Phase
+  
+  - Retirement Phase
+
+- Software Development Process
+
+- Unified Process (UP)
+
+- ###### Object Orientation Part - 1
+
+- OOP Concepts in Java
+  
+  - Encapsulation 
+  
+  - Inheritance
+  
+  - Polymorphism
+  
+  - Abstraction
+
+- Java Buzz Words
+
+- Programing Style
+
+- ###### Object Orientation Part - 2
+
+- Procedural Programming
+
+- Object Oriented Programming
+
+- OOP: Encapsulation and Data Hiding
+
+- Classes and Objects
+
+- Methods, Operations and Polymorphism
+
+- Abstract Classes and Methods
+
+- Overriding
+
+- Dynamic Binding
+
+- Basing Software Development on Reusable Technology
+
+- Java Classes and Objects
+
+- Creating a Class
+
+- Creating an Object
+
+- Creating Method
+  
+  - Normal Method
+  
+  - Static Method
+
+- Java Method Overloading
+
+- Java Constructor
+
+- Constructors Overloading in Java
+
+- Java Inheritance
+  
+  - Single Inheritance in Java
+  
+  - Multi - Level Inheritance in Java
+  
+  - Hierarchical Inheritance in Java
+  
+  - Hybrid Inheritance in Java
+
+- Java Access Modifiers
+
+- Java Constructor in Inheritance
+
+- Method Overriding in Java Inheritance 
+
+- Super Keyword in Java Inheritance 
+
+- Java this Keyword
+
+- Getters and Setters
+
+- Constructors Overloading
+
+- Java instance of Operator
+
+---
+
+### Week - 2
+
+- Java super keyword
+
+- Super to refer parent class method
+
+- Super to call parent class constructor
+
+- Method overriding
+
+- Super to call superclass Method
+
+- Access superclass attribute
+
+- Use of super
+
+- Call Parameterized constructor using super()
+
+- Java final keyword
+  
+  - Final with class
+  
+  - Final with methods
+
+- Java Polymorphism
+  
+  - Ad hoc polymorphism 
+  
+  - Pure polymorphism
+  
+  - Polymorphism using method overriding 
+  
+  - Polymorphism using method overloading
+  
+  - Polymorphic Variables 
+
+- Java Encapsulation
+  
+  - Data hiding
+
+- Java method Overriding
+
+- Java Nested and Inner Class
+  
+  - Non - static nested class
+  
+  - Accessing Members of outer class within Inner class
+  
+  - Static nested class
+  
+  - Static Inner class
+  
+  - Accessing members of Outer class inside static Inner class
+
+- Java Nested Static Class
+  
+  - Accessing Non - static members
+  
+  - Static top - level class
+
+- Java Anonymous Class
+
+- Java Enums
+  
+  - Methods of Enum class
+  
+  - Java enum Constructor
+  
+  - Java enum String
+
+- Java Abstract Class
+  
+  - Access Constructor of Abstract Classes 
+  
+  - Abstract Class Review
+
+- Java object Class
+
+- Defining Packages in java
+
+- Access protection in java packages 
+  
+  - Importing Packages in Java
+  
+  - Importing specific class
+  
+  ---
+  
+  ### Week - 3
+
+- Defining an Interface in Java
+
+- Implementing an Interface in Java
+
+- Implementing multiple Interfaces
+
+- Nested Interfaces in Java
+  
+  - Nested Interfaces inside a class
+
+- Variables in Java Interfaces 
+
+- Extending an Interface in Java
+
+- Extending Multiple Interfaces in Java 
+
+- Advantages of Interface in java
+
+- Default methods in Java Interfaces 
+
+- Private and Static Methods in Interface
+
+- Java Interface Practical 
+
+- Java reflection
+  
+  - Java class reflection
+  
+  - Reflection of Java methods
+  
+  - Reflection of Java public fields 
+  
+  - Reflection of Java Private Fields 
+  
+  - Reflection of Java Constructor
+
+- Java Wrapper Classes
+
+- Java Lambda Expressions
+  
+  - Java Lambda Expressions syntax 
+  
+  - Using Lambda Expressions
+  
+  ---
+  
+  ### Week - 4
+
+- UML Overview
+  
+  - Characteristics of UML
+  
+  - Conceptual Modeling
+  
+  - OO Analysis and Design
+
+- UML Tools
+
+- UML Building Blocks
+
+- Structural things
+  
+  - Class
+  
+  - Object
+  
+  - Interface
+  
+  - Collaboration
+  
+  - Use case
+  
+  - Actor
+  
+  - Component
+  
+  - Node
+
+- Behavioral Things 
+  
+  - State Machine
+  
+  - Activity Diagram
+  
+  - Interaction Diagram
+
+- Grouping Things
+  
+  - Package
+
+- Annotation Things 
+  
+  - Note
+
+- Relationships
+  
+  - Dependency
+  
+  - Association
+  
+  - Generalization
+  
+  - Realization
+
+- Diagrams
+  
+  - Structural Diagram
+  
+  - Behavioral Diagram
+  
+  - Interaction Diagram
+
+- UML Architecture
+
+- UML Diagrams Overview
+
+- UML Relationship
+  
+  - Association
+  
+  - Dependency
+  
+  - Generalization
+  
+  - Realization
+
+- UML Class Diagram
+  
+  - Multiplicity
+  
+  - Aggregation
+  
+  - Composition
+  
+  - Abstract Classes
+
+- UML Object Diagram
+
+- UML Component Diagram
+
+- UML Deployment Diagram
+
+- UML Interaction Diagram
+
+- UML Use Case Diagram
+
+- UML Sequence Diagram
+
+- UML Collaboration Diagram
+
+- UML State Machine Diagram
+
+- UML Activity Diagram
+
+- UML Timing Diagram
+  
+  ---
+  
+  ### Week - 5
+
+- Plantuml Overview
+
+- Knowledge how to download Plantuml
+
+- Knowledge how to use Plantuml Online
+
+-  Knowledge how to use Plantuml offline?
+
+- Plantuml Integrations with other tools
+
+- Plantuml UML Diagrams 
+  
+  - Sequence diagram
+  
+  - Usecase diagram
+  
+  - Class diagram
+  
+  - Object diagram
+  
+  - Activity diagram
+  
+  - Component diagram
+  
+  - Deployment diagram
+  
+  - State diagram
+  
+  - Timing diagram
+
+- Plantuml C4 Model Diagrams
+  
+  - Context diagram
+  
+  - Container diagram
+  
+  - Component diagram
+  
+  - Class diagram
+
+- Plantuml None-UML Diagrams
+  
+  - JSON data
+  
+  - YAML data
+  
+  - Network diagram (nwdiag)
+  
+  - Wireframe graphical interface or UI mockups (salt)
+  
+  - Archimate diagram
+  
+  - Specification and Description Language (SDL)
+  
+  - Ditaa diagram
+  
+  - Gantt diagram
+  
+  - MindMap diagram
+  
+  - Work Breakdown Structure diagram (WBS)
+  
+  - Mathematic with AsciiMath or JLaTeXMath notation
+  
+  - Entity Relationship diagram (IE/ER)
+
+- PlantUML Preprocessing
+
+- Plantuml Icon Diagrams Support (PlantUML Stdlib)
+
+- Calling PlantUML from Java
+  
+  ---
+  
+  ### Week - 6
+
+- Introduction to UMPLE
+
+- Using UMPLE
+
+- UMPLE Philosophy
+
+- UMPLE Class Modeling
+
+- UMPLE Attributes
+
+- Code Generation
+
+- UMPLE builtin datatypes 
+
+- Attribute stereotypes
+  
+  - Immutability
+  
+  - Derived attributes
+  
+  - Multi - Valued attributes
+
+- Keys
+
+- UMPLE Generalization and interfaces
+
+- UMPLE Methods
+
+- UMPLE Associations
+  
+  - Many to one associations
+  
+  - Many to Many associations
+  
+  - One to one associations
+  
+  - Unidirectional Associations
+  
+  - Reflexive Associations
+  
+  - Aggregation
+  
+  - Composition
+  
+  - Sorted Associations
+  
+  ---
+  
+  ### Week - 7
+
+- Modeling exercises
+
+- Simple Patterns (if time)
+  
+  - Singleton pattern
+  
+  - Delegation pattern
+  
+  - Basic constraints
+
+- Basic state machines
+
+- Nested substates and guard condition
+
+- Nested state diagram
+
+- Analysing models
+
+- Concurrency
+
+- State machine case study
+  
+  - Umple for the phone line 
+  
+  - In-class modeling exercise for state machines
+
+- Mixins
+
+- Aspect orientation
+
+- Traits
+  
+  - Separation of Concerns by Traits
+  
+  - Traits With Parameters
+  
+  - Selecting Subsets of Items in Traits
+  
+  - Renaming Elements when Using Traits
+  
+  - Associations in Traits: Observer Pattern
+  
+  - Using Traits to Reuse State Machines
+  
+  - Satisfaction of Required Methods Through State Machines
+  
+  - Changing Name of a State Machine Region
+
+- Mixsets
+
+- Class Diagram of Basic Bank
+
+- Adding Optional Multi-branch Feature
+
+- Multi-branch Umple Model/Code
+
+- Unit Testing with UMPLE
+
+- UMPLE issues list
+
+- Using Umple with Builds and Continuous Integration
+
+- UMPLE's Architecture
+
+- Umplification
+
+- Conclusion
+  
+  ---
+  
+  ### Week - 8
+
+- Midterm
+  
+  ---
+  
+  ### Week - 9
+
+- First Design Pattern
+
+- Gof Book
+
+- SOLID 
+
+- java - true - liskov substitution principle uncle bob
+  
+  ---
+  
+  ### Week - 10
+
+- First Design Pattern
+
+- Gof Book
+
+- SOLID
+
+- java - true - liskov substitution principle uncle bob
+  
+  ---
+  
+  ### Week - 11
+  
+  ---
+  
+  ### Week - 12
+  
+  ---
+  
+  ### Week - 13
+  
+  ---
+  
+  ### Week - 14
+  
+  ---
+  
+  
